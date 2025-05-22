@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignorar AppData do Docker (e outros temporários do Windows)
+AppData/
+
